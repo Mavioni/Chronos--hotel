@@ -26,3 +26,4 @@ assets/roomitemtypes.json
 assets/wallitemtypes.json
 atomcms/gamedata/*
 !atomcms/gamedata/.gitkeep
+tmp_*
